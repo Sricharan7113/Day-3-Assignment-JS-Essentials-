@@ -1,0 +1,45 @@
+*{
+    
+}
+
+.Container{
+    width:80vw;
+    padding:20px;
+    border-radius: 10px;
+    background-color: #5885AF;
+}
+
+.Container  h2{
+    color: #274472;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.Input{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+.One,.Two,.Three,.Four,.Five{
+    width:200px;
+    height: 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 8px;
+    border:2px solid #41729F;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+.btn{
+    width:100px;
+    height:25px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 8px;
+    border:2px solid #41729F;
+    text-align: center;
+    margin-top: 10px;
+    cursor: pointer;
+    color: #274472;
+}
